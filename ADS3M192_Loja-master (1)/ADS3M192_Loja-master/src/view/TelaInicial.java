@@ -180,7 +180,7 @@ public class TelaInicial extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenuItemClientesListarActionPerformed
 
     private void CadastrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CadastrarActionPerformed
-       FrmCadastrar tela = new FrmCadastrar();
+       FrmCategoria tela = new FrmCategoria();
        jdpPainelInicial.add( tela );
        tela.setVisible(true);
     }//GEN-LAST:event_CadastrarActionPerformed
